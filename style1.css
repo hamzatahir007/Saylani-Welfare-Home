@@ -1,0 +1,88 @@
+.new3{
+    color: #999;
+    line-height: 25px;
+}
+
+.new{
+    font-size: 18px;
+    color: #fff;
+}
+.new2{
+    font-size: 18px;
+    color: #fff;
+}
+.footer-top{
+    background: #111;
+    padding: 80px 50px;
+}
+.container1{
+    height: 280px;
+}
+
+.segment-one h2{
+    font-family: courgette;
+    color: #fff;
+    letter-spacing: 3px;
+    margin: 10px;
+    text-transform: capitalize;
+}
+.segment-one ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+.segment-one ul li{
+    line-height: 30px;
+    border-bottom: 1px solid rgb(255, 255,255,0.3);
+}
+
+.segment-one ul li a{
+    color: #999;
+    text-decoration:none;
+}
+.segment-one ul li a img{
+    width: 20px;
+    height: 20px;
+}
+
+
+.segment-two h3{
+    font-family: courgette;
+    color: #fff;
+    text-transform: capitalize;
+
+}
+
+.segment-three h3{
+    font-family: courgette;
+    color: #fff;
+    text-transform: capitalize;
+
+}
+
+.segment-three a i{
+    font-size: 30px;
+    color: #fff;
+    padding: 5px ;
+}
+.segment-three a i img{
+    width: 25px;
+    height: 25px;
+}
+
+.segment-four h3{
+    font-family: courgette;
+    color: #fff;
+    text-transform: capitalize;
+
+}
+
+.footer-bottom-text{
+    text-align: center;
+    line-height: 40px;
+    background:#316DD9;
+    font-family: courgette;
+    color: white;
+}
+
