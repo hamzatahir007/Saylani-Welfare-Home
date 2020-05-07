@@ -78,11 +78,43 @@
 
 }
 
+.segment-four .btn-danger {
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+
 .footer-bottom-text{
     text-align: center;
     line-height: 40px;
     background:#316DD9;
     font-family: courgette;
     color: white;
+}
+
+@media only screen and (max-width: 600px){
+    .footer-top{
+        background: #111;
+        padding: 40px 25px;
+    }
+    .container1{
+        height: auto;
+    }
+
+    .segment-one{
+        width: 100%;
+        height: 320px;
+    }
+
+    .segment-two{
+        width: 100%;
+        height: 300px;
+    }
+    .segment-four .btn-danger {
+        width: 70px;
+        height:30px;
+        border-radius: 5px;
+    }
 }
 
